@@ -1,15 +1,16 @@
 [
     {
-        "date": "19-01-2026",
-        "total_rievances": "2857",
-        "open": "2",
+        "date": "02-02-2026",
+        "total_rievances": "33",
+        "open": "8",
         "more_information_awaited_from_consumer": "0",
-        "resolved": "2855",
+        "resolved": "25",
         "year_2024": "1254",
         "year_2025": "1603"
-        "year_2026": ""
+        "year_2026": "33"
     }
 ]
+
 
 
 
